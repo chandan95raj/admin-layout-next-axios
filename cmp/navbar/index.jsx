@@ -1,7 +1,7 @@
-import Stack from "@mui/material/stack";
-import AppBar from "@mui/material/appbar";
-import Toolbar from "@mui/material/toolbar";
-import Button from "@mui/material/button";
+import Stack from "@mui/material/Stack";
+import AppBar from "@mui/material/AppBar";
+import Toolbar from "@mui/material/Toolbar";
+import Button from "@mui/material/Button";
 import Link from "next/link";
 import menus from "../../json-api/Menu";
 const Navbar =()=>{
