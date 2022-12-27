@@ -1,12 +1,12 @@
 import {useEffect, useState} from 'react';
-import Grid from "@mui/material/grid";
-import Container from "@mui/material/container";
-import Card from "@mui/material/card";
-import Button from "@mui/material/button";
-import Typography from "@mui/material/typography";
-import Stack from "@mui/material/stack";
+import Grid from "@mui/material/Grid";
+import Container from "@mui/material/Container";
+import Card from "@mui/material/Card";
+import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
+import Stack from "@mui/material/Stack";
 import Image from "next/image";
-import Box from '@mui/material/box';
+import Box from '@mui/material/Box';
 import axios from 'axios';
 
 const Home = ()=>{
