@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "label":"Dashboard",
+        "path":"admin-panel",
+        "icon":"dashboard"
+    },
+    {
+        "id":2,
+        "label":"Product",
+        "path":"product",
+        "icon":"shop"
+    }    
+
+]
